@@ -1,12 +1,12 @@
 ## Hello, I'm Will! 👋
 
-I am a fullstack developer, chemical engineer, and life-long learner. I am currently mastering new skills, languages, and
-frameworks with the hope of becoming a full-time software engineer or React developer. My areas of expertise include: 
-JavaScript, React, Express, and front-end web development.
+I am a fullstack developer, chemical engineer, and life-long learner. I am currently working in web development and seeking roles
+as a Front End Engineer, React Engineer,  or Web Developer. My areas of expertise include: 
+JavaScript, React, Node, Express, Mongo, and Python.
 
 - 🌱 I’ve just finished Practicum's Full-Stack Web Dev program.
 - 👯 I’m looking to collaborate on React projects that may need a little help with design and/or functionality.
-- 💬 Ask me about my experiences as an engineer and goals for my future career as a programmer!
+- 💬 Ask me about my experiences and transition from chemical to web engineer!
 - 📫 How to reach me: Email me any time! <williamdschutte@gmail.com>
 
 ### Portfolio:
