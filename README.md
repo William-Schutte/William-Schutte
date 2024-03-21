@@ -1,7 +1,7 @@
 ## Hello, I'm Will! 👋
 
-I am a fullstack developer, former chemical engineer, and life-long learner. I am currently in a Fullstack Software engineer for an 
-amazing startup in Atlanta. 
+I am a fullstack developer, former chemical engineer, and life-long learner. I am currently a Software Engineer for an 
+amazing startup in the Bay Area. 
 
 My expertise is in:
 React, TypeScript, JavaScript, Python, and Django with familiarity in Node, Postgress, Express, and Mongo.
